@@ -1,6 +1,5 @@
 import React, { useEffect } from "react";
 import "./home.css";
-import video1 from "../../assets/video/Egypt _PeopletoPeople.mp4";
 import video2 from "../../assets/video/ThisisEgypt.mp4";
 import { GrLocation } from "react-icons/gr";
 import { HiFilter } from "react-icons/hi";
